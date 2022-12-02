@@ -9,7 +9,7 @@ export function NewTransactionModal () {
                         <Overlay></Overlay>
 
                         <Content>
-                            <Dialog.Title>Nova trans</Dialog.Title>
+                            <Dialog.Title>Nova transação</Dialog.Title>
 
                             <CloseButtom><X size={24}/></CloseButtom>
 
