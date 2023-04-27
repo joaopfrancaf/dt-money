@@ -5,7 +5,7 @@
         "description": "things",
         "type" : "income",
         "category" : "venda",
-        "price" : 14000 ,
+        "price" : 2000 ,
         "createAt" : "2022-12-02T12:06:12.918Z"
     },
 
@@ -16,6 +16,15 @@
         "category" : "alimentação",
         "price" : 500 ,
         "createAt" : "2022-12-02T12:06:12.918Z"
+    },
+
+    {
+        "id" : 3,
+        "description": "COISASSSSS",
+        "type" : "outcome",
+        "category" : "alimentação",
+        "price" : 2 ,
+        "createAt" : "2022-12-02T12:03:12.918Z"
     }
 ]
 
