@@ -1,31 +1,68 @@
 {
-    "transactions": [
+  "transactions": [
     {
-        "id" : 1,
-        "description": "things",
-        "type" : "income",
-        "category" : "venda",
-        "price" : 2000 ,
-        "createAt" : "2022-12-02T12:06:12.918Z"
+      "id": 1,
+      "description": "things",
+      "type": "income",
+      "category": "venda",
+      "price": 2000,
+      "createAt": "2022-12-02T12:06:12.918Z"
     },
-
     {
-        "id" : 2,
-        "description": "haaaamburger",
-        "type" : "outcome",
-        "category" : "alimentação",
-        "price" : 500 ,
-        "createAt" : "2022-12-02T12:06:12.918Z"
+      "id": 2,
+      "description": "haaaamburger",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 500,
+      "createAt": "2022-12-02T12:06:12.918Z"
     },
-
     {
-        "id" : 3,
-        "description": "COISASSSSS",
-        "type" : "outcome",
-        "category" : "alimentação",
-        "price" : 2 ,
-        "createAt" : "2022-12-02T12:03:12.918Z"
+      "id": 3,
+      "description": "COISASSSSS",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 2,
+      "createAt": "2022-12-02T12:03:12.918Z"
+    },
+    {
+      "description": "mds",
+      "price": 2,
+      "category": "coisassss",
+      "type": "outcome",
+      "createAt": "2023-04-27T22:44:45.864Z",
+      "id": 4
+    },
+    {
+      "description": "thigsn",
+      "price": 200,
+      "category": "coisassss",
+      "type": "outcome",
+      "createAt": "2023-04-27T22:45:14.193Z",
+      "id": 5
+    },
+    {
+      "description": "money",
+      "price": 4,
+      "category": "moneyy",
+      "type": "income",
+      "createAt": "2023-04-27T22:59:55.290Z",
+      "id": 6
+    },
+    {
+      "description": "pastel",
+      "price": 5,
+      "category": "alimentação",
+      "type": "outcome",
+      "createAt": "2023-04-27T23:25:30.577Z",
+      "id": 7
+    },
+    {
+      "description": "mds",
+      "price": 10,
+      "category": "qwe",
+      "type": "income",
+      "createAt": "2023-04-27T23:26:24.986Z",
+      "id": 8
     }
-]
-
+  ]
 }
